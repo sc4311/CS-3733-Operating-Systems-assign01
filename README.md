@@ -1,1 +1,1 @@
-Need to run on WSL shell Ububtu
+Need to run on WSL shell Ubuntu
